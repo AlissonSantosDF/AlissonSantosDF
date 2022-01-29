@@ -7,7 +7,7 @@
 - 📫 alissonferreira@yahoo.com.br
  
   > <i>" Um homem decidir se dedicar e for capaz de obter sucesso na construção de uma máquina encarnando em si todo o departamento executivo de análise matemática por diferentes princípios ou por meios mecânicos mais simples, não temo deixar minha reputação a seu cargo, pois somente ele será plenamente capaz de reconhecer a natureza de meus esforços e o valor de seus resultados.” </i>
-                                     <p>Charles Babbage </p>
+                                      <p><center>Charles Babbage </center></p> 
 <div align="center">
   <a href="https://github.com/AlissonSantosDF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonsantosDF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
