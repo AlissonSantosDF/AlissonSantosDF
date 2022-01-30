@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonsantosDF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonsantosDF&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+  <br>
   <div style="display: inline_block"><br>
     <img align="center" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -26,7 +26,7 @@
    
   
 </div>
-  
+  <br>
   <div> 
   
   
@@ -36,4 +36,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-![capa_digital](https://user-images.githubusercontent.com/44729585/151711037-64e89219-888b-4969-b63a-ba8dd0e5a4df.jpg)
+ 
