@@ -1,9 +1,13 @@
-### Olá, eu sou  <h1>Alisson Ferreira - Analista de Qualidade de Software </h1> 👋
+### Olá, eu sou  <h1> Alisson Ferreira - Analista de Qualidade de Software </h1>  👋
 
 
 
 - 🔭 Atualmente estou em um novo engajamento, a saber, Engenharia de Qualidade de Teste de Software.
-- 🌱 Estou extremamente motivado com o novo aprendizado: Cypress, Cucumber e WebDriver Selenium. 
+- 🌱 Estou extremamente motivado com o novo aprendizado
+-  Lista de ferramentas a dominar:
+- [x] Cypress
+- [ ] Cucumber
+- [ ] WebDriver Selenium. 
 - 📫 alissonferreira@yahoo.com.br
  
   > <i>" Um homem decidir se dedicar e for capaz de obter sucesso na construção de uma máquina encarnando em si todo o departamento executivo de análise matemática por diferentes princípios ou por meios mecânicos mais simples, não temo deixar minha reputação a seu cargo, pois somente ele será plenamente capaz de reconhecer a natureza de meus esforços e o valor de seus resultados.” </i>
@@ -36,4 +40,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
+ <img> https://github.com/AlissonSantosDF/Livro-Parte-I/blob/main/capa_digital.jpg </img>
