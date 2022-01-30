@@ -36,3 +36,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+![capa_digital](https://user-images.githubusercontent.com/44729585/151711037-64e89219-888b-4969-b63a-ba8dd0e5a4df.jpg)
