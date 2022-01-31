@@ -40,4 +40,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- <img> https://github.com/AlissonSantosDF/Livro-Parte-I/blob/main/capa_digital.jpg </img>
+ 
