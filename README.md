@@ -38,6 +38,7 @@
   <a href="https://www.linkedin.com/in/alisson-ferreira-dos-santos-11173728/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![image](https://user-images.githubusercontent.com/44729585/158693556-fd8694fe-dba2-421c-8b94-93967271ad05.png)
  
 </div>
  
