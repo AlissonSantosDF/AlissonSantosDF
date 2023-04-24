@@ -1,4 +1,4 @@
-### Olá, eu sou  <h1> Alisson Ferreira - Analista de Qualidade de Software | Field Tester| CTFL-ISTQB| </h1>  👋
+### Olá, eu sou  <h1> Alisson Ferreira - Analista de Qualidade de Software | Field Tester| CTFL-ISTQB|Certified Testing Automation Engineer </h1>  👋
 
 
 
