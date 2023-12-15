@@ -1,4 +1,4 @@
-### Olá, eu sou  <h1> Alisson Ferreira - Analista de Qualidade de Software | Field Tester| CTFL|CTAE-Certified Testing Automation Engineer ISTQB </h1>  👋
+### Olá, eu sou  <h1> Alisson Ferreira - Analista de Qualidade de Software | Field Tester| CTFL|CTFL AT| CTAE-Certified Testing Automation Engineer and Agile Tester </h1>  👋
 
 
 
@@ -7,7 +7,7 @@
 -  Lista de ferramentas a dominar:
 - [x] Cypress
 - [ ] Cucumber
-- [ ] WebDriver Selenium. 
+- [x] WebDriver Selenium. 
 - [x] Robot Framework
 - 📫 alissonferreira@yahoo.com.br
  
