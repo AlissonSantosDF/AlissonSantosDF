@@ -1,4 +1,4 @@
-### Olá, eu sou  <h1> Alisson Ferreira - Analista de Qualidade de Software | Field Tester| CTFL|CTFL AT| CTAE-Certified Testing Automation Engineer and Agile Tester </h1>  👋
+### Olá, eu sou  <h1> Alisson Ferreira - Analista de Qualidade de Software | Field Tester| CTFL|CTFL AT|CT-AI| CTAE-Certified Testing Automation Engineer and Agile Tester </h1>  👋
 
 
 
