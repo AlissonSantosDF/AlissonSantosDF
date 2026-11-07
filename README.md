@@ -34,14 +34,6 @@ Atuo na qualidade de software com foco em automação de testes E2E, API e mobil
   <img height="40" width="48" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
-## Indicadores
-
-<div align="center">
-  <a href="https://github.com/AlissonSantosDF">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=alissonsantosDF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonsantosDF&layout=compact&langs_count=7&theme=dracula" alt="Tecnologias mais usadas" />
-  </a>
-</div>
 
 ## Contato
 
