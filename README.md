@@ -35,6 +35,14 @@ Atuo na qualidade de software com foco em automação de testes E2E, API e mobil
 </div>
 
 
+## Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlissonSantosDF/AlissonSantosDF/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlissonSantosDF/AlissonSantosDF/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AlissonSantosDF/AlissonSantosDF/output/github-snake.svg" />
+</picture>
+
 ## Contato
 
 <p align="center">
